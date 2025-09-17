@@ -26,8 +26,15 @@ Credits and references used in this README:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=html,tailwind,javascript,react,nextjs,figma&theme=light)](https://skillicons.dev)
 
-**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+Also comfortable with:
 
+- HTML & CSS (termasuk Tailwind CSS untuk styling cepat dan responsif)
+
+- JavaScript (ES6+) untuk logika dan interaktivitas
+
+- React.js untuk pengembangan antarmuka yang dinamis
+
+- Next.js untuk fullstack development (SSR/SSG, routing, API routes)
 
 ---
 
