@@ -11,19 +11,20 @@ Credits and references used in this README:
    https://github.com/anuraghazra/github-readme-stats
 -->
 
-# 🐐 Maximus Soares Demo Account
+# arataaXwonyoung
 **`Growth Lead at NextWork`** 
 
 ## About Me
-- I build, ship, and tell the story in public.
-- Grew NextWorks social media to 250K+ followers in one year.
-- Help teach 145,000+ students cloud, AI, and tech skills
-
-
+- Memiliki minat di bidang Web Development (Frontend & Backend)
+- Tertarik pada Mobile App Development (Android & iOS)
+- Sedang belajar dan mendalami JavaScript/TypeScript, React, dan Flutter
+- Memegang prinsip: terus belajar, menulis kode yang rapi, dan senang berkolaborasi
+- Sering mengerjakan proyek kecil untuk melatih UI/UX dan API integration
+  
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,typescript,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
