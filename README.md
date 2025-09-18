@@ -89,7 +89,11 @@ Also comfortable with:
 
 ---
 
+## Links
 
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 <a href="https://www.instagram.com/araataa._/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
