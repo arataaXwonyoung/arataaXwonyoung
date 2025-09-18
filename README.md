@@ -87,16 +87,8 @@ Also comfortable with:
 ## Stats
 ![Arataa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arataaXwonyoung&show_icons=true&theme=gruvbox)
 
----
 
-## Links
-- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
-- [**Contact**](mailto:maximus@nextwork.org)
-
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
+/www.instagram.com/araataa._/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
