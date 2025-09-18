@@ -87,8 +87,10 @@ Also comfortable with:
 ## Stats
 ![Arataa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arataaXwonyoung&show_icons=true&theme=gruvbox)
 
+---
 
-/www.instagram.com/araataa._/" target="blank">
+
+<a href="https://www.instagram.com/araataa._/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
