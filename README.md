@@ -71,8 +71,8 @@ Also comfortable with:
          style="width:100%; height:200px; object-fit:cover;"/>
   </a>
   <br/>
-  <b>Website Coffee Shop</b><br/>
-  <sub>Membuat sebuah website coffee shop</sub><br/>
+  <b>Website Sistem Akademik</b><br/>
+  <sub>Membuat sebuah website Sistem Akademik</sub><br/>
   🔗 <a href="https://github.com/arataaXwonyoung/sistem-akademik-mhs.git">Repo</a>
   🔗 <a href="https://student-academic-sistem.vercel.app/">Hasil</a>
   <br/>
