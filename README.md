@@ -12,19 +12,23 @@ Credits and references used in this README:
 -->
 
 # arataaXwonyoung
-**`Growth Lead at NextWork`** 
+
+**`Growth Lead at NextWork`**
 
 ## About Me
+
 - Memiliki minat di bidang Web Development (Frontend & Backend)
 - Tertarik pada Mobile App Development (Android & iOS)
 - Sedang belajar dan mendalami JavaScript/TypeScript, React, dan Flutter
 - Memegang prinsip: terus belajar, menulis kode yang rapi, dan senang berkolaborasi
 - Sering mengerjakan proyek kecil untuk melatih UI/UX dan API integration
-  
+
 ## Skill stack
+
 [![My Skills](https://skillicons.dev/icons?i=html,tailwind,javascript,react,nextjs,figma&theme=light)](https://skillicons.dev)
 
 Also comfortable with:
+
 - HTML & CSS (termasuk Tailwind CSS untuk styling cepat dan responsif)
 - JavaScript (ES6+) untuk logika dan interaktivitas
 - React.js untuk pengembangan antarmuka yang dinamis
@@ -38,17 +42,18 @@ Also comfortable with:
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/arataaXwonyoung/coffee-web">
-        <img src="https://learn.nextwork.org/projects/static/coffee-shop-template.png"
-             alt="Coffee Shop Website"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Website Coffee Shop</b><br/>
-      <sub>Membuat sebuah website coffee shop </sub><br/>
-      🔗 <a href="https://github.com/arataaXwonyoung/coffee-web">Repo</a>
-      🔗 <a href="https://coffeeshop-template.netlify.app/">Hasil</a>
-      <br/>
-      <sub>Tags: Html, Css, JavaScript</sub>
+  <img src="assets/sanama-coffee.png"
+       alt="Coffee Shop Website"
+       style="width:100%; height:200px; object-fit:cover;"/>
+</a>P
+<br/
+<b>Website Coffee Shop</b><br/>
+<sub>Membuat sebuah website coffee shop</sub><br/>
+🔗 <a href="https://github.com/arataaXwonyoung/coffee-web">Repo</a>
+🔗 <a href="https://coffeeshop-template.netlify.app/">Hasil</a>
+<br/>
+<sub>Tags: Html, Css, JavaScript</sub>
+
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
@@ -76,17 +81,20 @@ Also comfortable with:
       <br/>
       <sub>Tags: Networking, AWS, Security</sub>
     </td>
+
   </tr>
 </table>
 
 ---
 
 ## Stats
+
 ![Arataa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arataaXwonyoung&show_icons=true&theme=gruvbox)
 
 ---
 
 ## Links
+
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
 - [**Contact**](mailto:maximus@nextwork.org)
 
