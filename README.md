@@ -51,7 +51,7 @@ Also comfortable with:
       <br/>
       <b>DeepSeek AI Chatbot</b><br/>
       <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      🔗 <a href="https://coffeeshop-template.netlify.app/">Repo</a>
       <br/>
       <sub>Tags: AI, LLMs, Prompt Engineering</sub>
     </td>
