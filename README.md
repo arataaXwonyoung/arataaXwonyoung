@@ -51,9 +51,9 @@ Also comfortable with:
   <sub>Tags: Html, Css, JavaScript</sub>
 </td>
     <td align="center" width="33%">
-  <a href="https://github.com/arataaXwonyoung/coffee-web">
-    <img src="assets/sanama-coffee.png"
-         alt="Coffee Shop Website"
+  <a href="https://github.com/arataaXwonyoung/template-porto.git">
+    <img src="assets/portfolio.png"
+         alt="Portfolio Website"
          style="width:100%; height:200px; object-fit:cover;"/>
   </a>
   <br/>
@@ -65,18 +65,18 @@ Also comfortable with:
   <sub>Tags: Html, Css, JavaScript</sub>
 </td>
     <td align="center" width="33%">
-  <a href="https://github.com/arataaXwonyoung/template-porto.git">
-    <img src="assets/portfolio.png"
-         alt="Portfolio Website"
+  <a href="https://github.com/arataaXwonyoung/sistem-akademik-mhs.git">
+    <img src="assets/akademik.png"
+         alt="Sistem Akademik Website"
          style="width:100%; height:200px; object-fit:cover;"/>
   </a>
   <br/>
   <b>Website Coffee Shop</b><br/>
   <sub>Membuat sebuah website coffee shop</sub><br/>
-  🔗 <a href="https://github.com/arataaXwonyoung/coffee-web">Repo</a>
-  🔗 <a href="https://coffeeshop-template.netlify.app/">Hasil</a>
+  🔗 <a href="https://github.com/arataaXwonyoung/sistem-akademik-mhs.git">Repo</a>
+  🔗 <a href="https://student-academic-sistem.vercel.app/">Hasil</a>
   <br/>
-  <sub>Tags: Html, Css, JavaScript</sub>
+  <sub>Tags: Html, Css, Vuejs</sub>
 </td>
     
   </tr>
