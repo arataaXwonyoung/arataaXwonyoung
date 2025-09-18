@@ -22,18 +22,12 @@ Credits and references used in this README:
 - Sering mengerjakan proyek kecil untuk melatih UI/UX dan API integration
   
 ## Skill stack
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=html,tailwind,javascript,react,nextjs,figma&theme=light)](https://skillicons.dev)
 
 Also comfortable with:
-
 - HTML & CSS (termasuk Tailwind CSS untuk styling cepat dan responsif)
-
 - JavaScript (ES6+) untuk logika dan interaktivitas
-
 - React.js untuk pengembangan antarmuka yang dinamis
-
 - Next.js untuk fullstack development (SSR/SSG, routing, API routes)
 
 ---
@@ -43,18 +37,18 @@ Also comfortable with:
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
-             alt="DeepSeek AI Project"
+      <a href="https://github.com/arataaXwonyoung/coffee-web">
+        <img src="https://learn.nextwork.org/projects/static/coffee-shop-template.png"
+             alt="Coffee Shop Website"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Website/b><br/>
+      <b>Website Coffee Shop</b><br/>
       <sub>Membuat sebuah website coffee shop </sub><br/>
-      🔗 <a href="[https://coffeeshop-template.netlify.app](https://github.com/arataaXwonyoung/coffee-web.git)/">Repo</a>
+      🔗 <a href="https://github.com/arataaXwonyoung/coffee-web">Repo</a>
       🔗 <a href="https://coffeeshop-template.netlify.app/">Hasil</a>
       <br/>
-      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+      <sub>Tags: Html, Css, JavaScript</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
@@ -88,19 +82,11 @@ Also comfortable with:
 ---
 
 ## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
+![Arataa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arataaXwonyoung&show_icons=true&theme=gruvbox)
 
 ---
 
 ## Links
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
 - [**Contact**](mailto:maximus@nextwork.org)
 
@@ -111,11 +97,6 @@ Also comfortable with:
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
-<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
 ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
 
-###
-
-<img src="https://raw.githubusercontent.com/FerrSan/FerrSan/output/snake.svg" alt="nake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/FerrSan/FerrSan/output/snake.svg" alt="snake animation" />
