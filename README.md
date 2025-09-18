@@ -49,9 +49,10 @@ Also comfortable with:
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>DeepSeek AI Chatbot</b><br/>
-      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
-      🔗 <a href="https://coffeeshop-template.netlify.app/">Repo</a>
+      <b>Website/b><br/>
+      <sub>Membuat sebuah website coffee shop </sub><br/>
+      🔗 <a href="[https://coffeeshop-template.netlify.app](https://github.com/arataaXwonyoung/coffee-web.git)/">Repo</a>
+      🔗 <a href="https://coffeeshop-template.netlify.app/">Hasil</a>
       <br/>
       <sub>Tags: AI, LLMs, Prompt Engineering</sub>
     </td>
